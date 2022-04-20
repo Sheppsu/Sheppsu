@@ -12,5 +12,6 @@ Public projects I'm currently working on:
 
 Past projects I'm no longer working on or finished:
  - I made [this pr](https://github.com/Rapptz/discord.py/pull/6507) which led to [this pr](https://github.com/nextcord/nextcord/pull/224) by another person.
+ - Made a cool [graph thingy](https://github.com/Sheepposu/osu-graph) for osu!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheepposu&show_icons=true&theme=maroongold)
