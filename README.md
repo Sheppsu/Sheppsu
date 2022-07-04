@@ -14,5 +14,7 @@ I usually just work on whatever I feel like and I learn something new every time
 [Past projects I'm no longer working on or finished](https://github.com/stars/Sheepposu/lists/past-projects):
  - I made [this pr](https://github.com/Rapptz/discord.py/pull/6507) and though I never finished it, some others used it as a base to fully implement the feature such as [here](https://github.com/nextcord/nextcord/pull/224) and [here](https://github.com/Pycord-Development/pycord/pull/532)
  - Made a cool [graph thingy](https://github.com/Sheepposu/osu-graph) for osu!
+ 
+I also play a lot of osu! - https://osu.ppy.sh/users/14895608 - as well as other rhythm games. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheepposu&show_icons=true&theme=maroongold)
