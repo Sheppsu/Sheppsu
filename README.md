@@ -3,7 +3,7 @@
 I have been programming since around 2017, and am self-taught.
 My most used languages are Python and Lua. I've used a lot of Lua in making Roblox games and Python to explore various areas of programming.
 
-I know a decent amount of css, html, Java, and little bit of Javascript.
+I know a decent amount of css, html, Java, and little bit of Javascript and SQL.
 
 I usually just work on whatever I feel like and I learn something new every time.
 
