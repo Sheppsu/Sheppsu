@@ -9,7 +9,7 @@ I usually just work on whatever I feel like and I learn something new every time
 
 [Public projects I'm currently working on](https://github.com/stars/Sheepposu/lists/current-projects):
  - [osu.py](https://github.com/Sheepposu/osu.py), an api wrapper for osu! api v2 made in Python.
- - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a twitch bot that runs in the offline chat of [btmc](https://www.twitch.tv/btmc). Offline chat refers to the time when the streamer is offline.
+ - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a twitch bot that runs in a few offline chats.
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a library for reading beatmaps that's still in the workings.
 
 [Past projects I'm no longer working on or finished](https://github.com/stars/Sheepposu/lists/past-projects):
