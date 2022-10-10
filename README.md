@@ -10,7 +10,7 @@ I usually just work on whatever I feel like and I learn something new every time
 [Public projects I'm currently working on](https://github.com/stars/Sheepposu/lists/current-projects):
  - [osu.py](https://github.com/Sheepposu/osu.py), a Python api wrapper for osu! api v2.
  - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
- - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's still in the workings.
+ - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
 
 [Past projects I'm no longer working on or finished](https://github.com/stars/Sheepposu/lists/past-projects):
