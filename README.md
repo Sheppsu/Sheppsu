@@ -24,4 +24,4 @@ I also play a lot of osu! - https://osu.ppy.sh/users/14895608 - as well as other
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheepposu&show_icons=true&theme=maroongold)]((https://github.com/anuraghazra/github-readme-stats))
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Sheppsu&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Sheppsu&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
