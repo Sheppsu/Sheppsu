@@ -1,9 +1,20 @@
 ### Welcome to my profile
 
 I have been programming since around 2017, and am self-taught.
-My most used languages are Python and Lua. I used a lot of Lua in making Roblox games (was for about 2 years) and Python to explore various areas of programming (was the first language I learned).
 
-I know a decent amount of css, html, Java, C, C#, and little bit of Javascript and SQL.
+The first programming language I learned was **Python**, which I still use today the most. I like Python because it makes it easy to explore various areas of programing.
+
+For about two years I also use **Lua** in making Roblox games.
+
+I took an AP CS class in which I used **Java** for one school semester, though I haven't done much else with it.
+
+I've used **C#** several times in various random projects, so I have a bit of experience with it.
+
+I know basic **SQL** from working with databases like sqlite and mysql in various projects.
+
+I've done a good bit of website development for several projects, so I have a decent amount of experience with **html**, **css** and **web javascript**. 
+
+### Activity
 
 I usually just work on whatever I feel like and I learn something new every time.
 
