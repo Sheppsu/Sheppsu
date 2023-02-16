@@ -14,6 +14,8 @@ I know basic **SQL** from working with databases like sqlite and mysql in variou
 
 I've done a good bit of website development for several projects, so I have a decent amount of experience with **html**, **css** and **web javascript**. 
 
+More recently I started delving into **C**, which has been fun, and I'm even using it in my [beatmap_reader](https://github.com/Sheepposu/beatmap_reader) project!
+
 ### Activity
 
 I usually just work on whatever I feel like and I learn something new every time.
