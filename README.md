@@ -1,7 +1,7 @@
 ### Welcome to my profile
 
 I have been programming since around 2017, and am self-taught.
-My most used languages are Python and Lua. I've used a lot of Lua in making Roblox games and Python to explore various areas of programming.
+My most used languages are Python and Lua. I used a lot of Lua in making Roblox games (was for about 2 years) and Python to explore various areas of programming.
 
 I know a decent amount of css, html, Java, C, C#, and little bit of Javascript and SQL.
 
