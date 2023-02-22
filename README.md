@@ -6,7 +6,7 @@ The first programming language I learned was **Python**, which I still use today
 
 For about two years I also use **Lua** in making Roblox games.
 
-I took an AP CS class in which I used **Java** for one school semester, though I haven't done much else with it.
+I took an AP CS class in which I used **Java** for two school semesters, though I haven't done much else with it.
 
 I've used **C#** several times in various random projects, so I have a bit of experience with it.
 
