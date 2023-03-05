@@ -26,7 +26,7 @@ Public projects I'm currently working on:
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
  - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), contains Python libraries and programs for reading sdvx virtual memory data and doing stuff with it, such as making a Discord rich presence.
- - I recently started work again on one of my really old [PR](https://github.com/Rapptz/discord.py/pull/6507) that adds voice receive support to discord.py. It was even used as a base for other libraries such as [here](https://github.com/nextcord/nextcord/pull/224) and [here](https://github.com/Pycord-Development/pycord/pull/532).
+ - I recently reopened this old [PR](https://github.com/Rapptz/discord.py/pull/6507) that adds voice receive support to discord.py. I rewrote my old shitty code from a couple years ago now. I'm plan to actively keep the code up to date now.
 
 Past projects I'm no longer working on or finished:
  - I have a bunch of random minor projects I worked on you can just scroll through my repositories.
