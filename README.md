@@ -23,6 +23,7 @@ I usually just work on whatever I feel like and I learn something new every time
 Public projects I'm currently working on:
  - [osu.py](https://github.com/Sheepposu/osu.py), a Python api wrapper for osu! api v2.
  - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
+ - [Offline chat bot site](https://github.com/Sheepposu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
  - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), contains Python libraries and programs for reading sdvx virtual memory data and doing stuff with it, such as making a Discord rich presence.
