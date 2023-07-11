@@ -20,17 +20,19 @@ More recently I started delving into **C**, which has been fun, and I'm even usi
 
 I usually just work on whatever I feel like and I learn something new every time.
 
-Public projects I'm currently working on:
+Projects I'm currently working on:
+ - [oct-site](https://github.com/Sheppsu/oct-site), a site for a tournament I host called Offline Chat Tournament. URL for the site is https://oct.shepppsu.me
  - [osu.py](https://github.com/Sheepposu/osu.py), a Python api wrapper for osu! api v2.
  - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
  - [Offline chat bot site](https://github.com/Sheepposu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
- - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), contains Python libraries and programs for reading sdvx virtual memory data and doing stuff with it, such as making a Discord rich presence.
  - I recently reopened this old [PR](https://github.com/Rapptz/discord.py/pull/9288) that adds voice receive support to discord.py. I rewrote my old shitty code from a couple years ago and I plan to actively keep the code up to date now.
 
-Past projects I'm no longer working on or finished:
+Projects I'm no longer working on, finished, on hold, or don't need much maintenance:
  - I have a bunch of random minor projects I worked on you can just scroll through my repositories.
+ - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), contains Python libraries and programs for reading sdvx virtual memory data and doing stuff with it, such as making a Discord rich presence.
+ - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
  
 Discord server for discussion/information about all my projects including future ones: https://discord.gg/uVmrN9zQ99 
  
