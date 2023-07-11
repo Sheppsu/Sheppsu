@@ -38,6 +38,6 @@ Discord server for discussion/information about all my projects including future
  
 I also play a lot of osu! - https://osu.ppy.sh/users/14895608 - as well as other rhythm games like sound voltex. 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheepposu&show_icons=true&theme=maroongold)]((https://github.com/anuraghazra/github-readme-stats))
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheppsu&show_icons=true&theme=maroongold)]((https://github.com/anuraghazra/github-readme-stats))
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Sheppsu&theme=maroongold&layout=compact&custom_title=Weekly%20stats)](https://github.com/anuraghazra/github-readme-stats)
