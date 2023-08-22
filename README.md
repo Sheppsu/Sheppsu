@@ -29,7 +29,7 @@ Projects I'm currently working on:
 
 Projects I'm no longer working on, finished, on hold, or don't need much maintenance:
  - I have a bunch of random minor projects I worked on you can just scroll through my repositories.
- - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), contains Python libraries and programs for reading sdvx virtual memory data and doing stuff with it, such as making a Discord rich presence.
+ - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), library for reading memory of sdvx exceed gear to get certain data. Will be an active project again once I finish remaking it in C and fixing the bugs of the current Python library.
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
