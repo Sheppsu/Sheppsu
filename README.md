@@ -33,7 +33,6 @@ Projects I'm no longer working on, finished, on hold, or don't need much mainten
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
- - I recently reopened this old [PR](https://github.com/Rapptz/discord.py/pull/9288) that adds voice receive support to discord.py. I rewrote my old shitty code from a couple years ago and I plan to actively keep the code up to date now.
  
 Discord server for discussion/information about all my projects including future ones: https://discord.gg/uVmrN9zQ99 
  
