@@ -25,6 +25,7 @@ Projects I'm currently working on:
  - [osu.py](https://github.com/Sheepposu/osu.py), a Python api wrapper for osu! api v2.
  - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
  - [Offline chat bot site](https://github.com/Sheepposu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
+ - [discord.py audio receive branch](github.com/rapptz/discord.py/pull/9288) the PR explains itself
 
 Projects I'm no longer working on, finished, on hold, or don't need much maintenance:
  - I have a bunch of random minor projects I worked on you can just scroll through my repositories.
