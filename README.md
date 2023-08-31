@@ -26,10 +26,10 @@ Projects I'm currently working on:
  - [Offline chat bot](https://github.com/Sheepposu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
  - [Offline chat bot site](https://github.com/Sheepposu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
  - [discord.py audio receive branch](https://github.com/rapptz/discord.py/pull/9288) the PR explains itself
+ - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I'm currently adding more features to it. I also have [sdvx_rich_presence](https://github.com/Sheepposu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence.
 
 Projects I'm no longer working on, finished, on hold, or don't need much maintenance:
  - I have a bunch of random minor projects I worked on you can just scroll through my repositories.
- - [sdvx_memory_reader](https://github.com/Sheepposu/sdvx_memory_reader), library for reading memory of sdvx exceed gear to get certain data. Will be an active project again once I finish remaking it in C and fixing the bugs of the current Python library.
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
  - [beatmap_reader](https://github.com/Sheepposu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheepposu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
