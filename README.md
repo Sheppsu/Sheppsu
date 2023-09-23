@@ -14,7 +14,7 @@ I know basic **SQL** from working with databases like sqlite and mysql in variou
 
 I've done a good bit of website development for several projects, so I have good experience with **html**, **css** and **web javascript**. Some examples are https://oct.sheppsu.me, https://bot.sheppsu.me, and https://sheppsu.me
 
-I started using **C** around early 2023 and have fun using it in various projects. I used it in my [beatmap_reader](https://github.com/Sheepposu/beatmap_reader) project, but the C code in that project is a bit old and doesn't showcase my current competence with the language.
+I started using **C** around early 2023 and have fun using it in various projects. I've most notably used it for my [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader) project.
 
 ### Activity
 
