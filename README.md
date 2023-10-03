@@ -1,6 +1,6 @@
 ### Welcome to my profile
 
-I have been programming since around 2017, and am mostly self-taught.
+My birthday is October 3rd, 2005 (18 years old). I have been programming since around 2017, and am mostly self-taught.
 
 The first programming language I learned was **Python**, which I still use today the most. I like Python because it makes it easy to explore various areas of programing.
 
