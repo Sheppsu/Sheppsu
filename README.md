@@ -29,10 +29,11 @@ Projects I'm currently working on:
  - [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I'm currently adding more features to it. I also have [sdvx_rich_presence](https://github.com/Sheppsu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence.
 
 Projects I'm no longer working on, finished, on hold, or don't need much maintenance:
- - I have a bunch of random minor projects I worked on you can just scroll through my repositories.
+ - I have some other random minor projects I worked on you can just scroll through my repositories.
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
  - [beatmap_reader](https://github.com/Sheppsu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheppsu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
+ - [osu-score-tracker](https://github.com/Sheppsu/osu-score-tracker), Python programs for tracking scores and displaying them in website format (essentially a fresh profile of sorts).
  
 Discord server for discussion/information about all my projects including future ones: https://discord.gg/uVmrN9zQ99 
  
