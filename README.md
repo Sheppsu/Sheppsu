@@ -25,7 +25,7 @@ Projects I'm currently working on:
  - [osu.py](https://github.com/Sheppsu/osu.py), a Python api wrapper for osu! api v2.
  - [Offline chat bot](https://github.com/Sheppsu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
  - [Offline chat bot site](https://github.com/Sheppsu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
- - [discord.py audio receive branch](https://github.com/rapptz/discord.py/pull/9288) the PR explains itself
+ - [discord-ext-listening](https://github.com/Sheppsu/discord-ext-listening), voice receive extension for [discord.py](https://github.com/rapptz/discord.py) built on multiprocessing and designed to be flexible.
  - [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I'm currently adding more features to it. I also have [sdvx_rich_presence](https://github.com/Sheppsu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence.
 
 Projects I'm no longer working on, finished, on hold, or don't need much maintenance:
