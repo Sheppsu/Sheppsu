@@ -2,19 +2,21 @@
 
 My birthday is October 3rd, 2005 (18 years old). I have been programming since around 2017, and am mostly self-taught.
 
-The first programming language I learned was **Python**, which I still use today the most. I like Python because it makes it easy to explore various areas of programing.
+The first programming language I learned was **Python**, which I still use today the most. I like Python because it makes it easy to explore various areas of programing and it's just a comfortable language to get things done.
 
-For about two years I also used **Lua** in making Roblox games (around 2017-2019).
+For about two years, I also used **Lua** in making Roblox games (around 2017-2019).
 
 I took an AP CS class in which I used **Java** for two school semesters, though I haven't done much else with it.
 
 I've used **C#** several times in various random projects, so I have a bit of experience with it.
 
-I know basic **SQL** from working with databases like sqlite and mysql in various projects.
+I know decent **SQL** from working with databases like sqlite and mysql in various projects.
 
-I've done a good bit of website development for several projects, so I have good experience with **html**, **css** and **web javascript**. Some examples are https://oct.sheppsu.me, https://bot.sheppsu.me, and https://sheppsu.me
+I've done a good bit of website development for several projects, so I have good experience with **html**, **css** and **javascript/typescript**. Some examples are https://oct.sheppsu.me, https://bot.sheppsu.me, and https://sheppsu.me
 
-I started using **C** around early 2023 and have fun using it in various projects. I've most notably used it for my [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader) project.
+I started using **C** around early 2023 and am utilizing it in some projects. I've most notably used it for my [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader) project.
+
+Wanted to try out **Rust**, so I've been doing a few (not public) projects with it. 
 
 ### Activity
 
