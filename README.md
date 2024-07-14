@@ -16,7 +16,7 @@ I've done a good bit of website development for several projects, so I have good
 
 I started using **C** around early 2023 and am utilizing it in some projects. I've most notably used it for my [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader) project.
 
-Wanted to try out **Rust**, so I've been doing a few (not public) projects with it. 
+I learned **Rust** aroun late 2023 and I love using it when I'm doing anything low-level or on small projects.
 
 ### Activity
 
