@@ -1,28 +1,22 @@
 ### Welcome to my profile
 
-My birthday is October 3rd, 2005 (18 years old). I have been programming since around 2017, and am mostly self-taught.
+My birthday is October 3rd, 2005 (18 years old) and I've been programming since around 2017, being mostly self-taught. I'm a college student majoring in Statistics with a minor in CS.
 
-The first programming language I learned was **Python**, which I still use today the most. I like Python because it makes it easy to explore various areas of programing and it's just a comfortable language to get things done.
+My first language was python, which is still my main language, but I've used and still use a lot of other languages such as: JS/TS (with HTML & CSS), SQL, C, and Rust. Honerable mentions that I don't use anymore: Lua (2 years with roblox), Java (1 year for AP CS), C# (here and there, mostly on [osu](https://github.com/ppy/osu).
 
-For about two years, I also used **Lua** in making Roblox games (around 2017-2019).
+My language of preference depends on the project and how I feel, but generally:
+- I use python on large projects such as websites
+- I use python or rust on small programs/projects
+- I use rust or c for programs that require high-performance
+- js/ts, html, css, and sql are mostly used in web projects
 
-I took an AP CS class in which I used **Java** for two school semesters, though I haven't done much else with it.
-
-I've used **C#** several times in various random projects, so I have a bit of experience with it.
-
-I know decent **SQL** from working with databases like sqlite and mysql in various projects.
-
-I've done a good bit of website development for several projects, so I have good experience with **html**, **css** and **javascript/typescript**. Some examples are https://oct.sheppsu.me, https://bot.sheppsu.me, and https://sheppsu.me
-
-I started using **C** around early 2023 and am utilizing it in some projects. I've most notably used it for my [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader) project.
-
-I learned **Rust** aroun late 2023 and I love using it when I'm doing anything low-level or on small projects.
+My favorites are definitely python and rust; python for the flexibility and easy-use, and rust for just being an awesome language.
 
 ### Activity
 
-I usually just work on whatever I feel like and I learn something new every time.
+I usually just work on whatever I feel like and I like learning new things with each project.
 
-Some notable projects:
+Some notable repositories:
  - [osu.py](https://github.com/Sheppsu/osu.py), a Python api wrapper for osu! api v2.
  - [oct-site](https://github.com/Sheppsu/oct-site), a site for a tournament I host called Offline Chat Tournament. URL for the site is https://oct.shepppsu.me
  - [discord-ext-listening](https://github.com/Sheppsu/discord-ext-listening), voice receive extension for [discord.py](https://github.com/rapptz/discord.py) built on multiprocessing and designed to be flexible.
