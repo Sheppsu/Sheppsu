@@ -17,6 +17,7 @@ My favorites are definitely python and rust; python for the flexibility and easy
 I usually just work on whatever I feel like and I like learning new things with each project.
 
 Some notable repositories:
+ - [otdb](https://github.com/Sheppsu/otdb), a tournament database website with tournament, mappool, and user data displayed neatly with search/sort/filter functionality: https://otdb.sheppsu.me
  - [osu.py](https://github.com/Sheppsu/osu.py), a Python api wrapper for osu! api v2.
  - [oct-site](https://github.com/Sheppsu/oct-site), a site for a tournament I host called Offline Chat Tournament. URL for the site is https://oct.shepppsu.me
  - [discord-ext-listening](https://github.com/Sheppsu/discord-ext-listening), voice receive extension for [discord.py](https://github.com/rapptz/discord.py) built on multiprocessing and designed to be flexible.
