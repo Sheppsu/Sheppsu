@@ -23,7 +23,8 @@ Some notable repositories:
  - [discord-ext-listening](https://github.com/Sheppsu/discord-ext-listening), voice receive extension for [discord.py](https://github.com/rapptz/discord.py) built on multiprocessing and designed to be flexible.
  - [Offline chat bot](https://github.com/Sheppsu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
  - [Offline chat bot site](https://github.com/Sheppsu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
- - [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I also made [sdvx_rich_presence](https://github.com/Sheppsu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence. 
+ - [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I also made [sdvx_rich_presence](https://github.com/Sheppsu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence.
+ - [media.sheppsu.me](https://media.sheppsu.me), source code of my file hosting server (Rust).
  - [beatmap_reader](https://github.com/Sheppsu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [osu_diff_calc](https://github.com/Sheppsu/osu_diff_calc), a Python library for calculating difficulty and performance point values of a beatmap.
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
