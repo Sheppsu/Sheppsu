@@ -1,6 +1,6 @@
 ### Welcome to my profile
 
-I'm 19 years old and have been programming since around 2017, being mostly self-taught. I'm a college undergrad majoring in Statistics.
+I'm a 19 year old college student and have been programming since around 2017 (mostly self-taught). I'm an undergrad majoring in statistics and data science (math emphasis).
 
 My first language was python, which is still my main language, but I've used and still use a lot of other languages such as: C# (mostly on [osu](https://github.com/ppy/osu)), JS/TS (with HTML & CSS), SQL, C, and Rust. Honorable mentions: Lua (2 years with roblox), Java (1 year for AP CS).
 
