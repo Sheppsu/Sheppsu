@@ -18,6 +18,7 @@ I usually just work on whatever I feel like and I like learning new things with 
 
 Some notable repositories:
  - [otdb](https://github.com/Sheppsu/otdb), a tournament database website with tournament, mappool, and user data displayed neatly with search/sort/filter functionality: https://otdb.sheppsu.me
+ - [CTA](https://github.com/sheppsu/achievement-hunt-site) - website for an event I host: https://cta.sheppsu.me/
  - [osu.py](https://github.com/Sheppsu/osu.py), a Python api wrapper for osu! api v2.
  - [oct-site](https://github.com/Sheppsu/oct-site), a site for a tournament I host called Offline Chat Tournament: https://oct.sheppsu.me
  - [discord-ext-listening](https://github.com/Sheppsu/discord-ext-listening), voice receive extension for [discord.py](https://github.com/rapptz/discord.py) built on multiprocessing and designed to be flexible.
