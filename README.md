@@ -25,7 +25,7 @@ Some notable repositories:
  - [Offline chat bot](https://github.com/Sheppsu/offlinechatbot), a Python twitch bot that runs in a few offline chats.
  - [Offline chat bot site](https://github.com/Sheppsu/offlinechatbot-site), the site for offline chat bot. Has docs and other fun stuff.
  - [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I also made [sdvx_rich_presence](https://github.com/Sheppsu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence.
- - [media.sheppsu.me](https://media.sheppsu.me), source code of my file hosting server (Rust).
+ - [media.sheppsu.me](https://github.com/Sheppsu/media.sheppsu.me), source code of my file hosting server (Rust).
  - [beatmap_reader](https://github.com/Sheppsu/beatmap_reader), a Python library for reading beatmaps that's working but not complete.
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat), a tapermonkey script that adds 7TV emotes to AMQ chat.
  - [osu-score-tracker](https://github.com/Sheppsu/osu-score-tracker), Python programs for tracking scores and displaying them in website format (essentially a fresh profile of sorts).
