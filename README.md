@@ -2,7 +2,7 @@
 
 I'm a 19 year old college student and have been programming since around 2017 (mostly self-taught). I'm an undergrad majoring in statistics and data science (math emphasis).
 
-My first language was python, which is still my main language, but I've used and still use a lot of other languages such as: C# (mostly on [osu](https://github.com/ppy/osu)), JS/TS (with HTML & CSS), SQL, C, and Rust. Honorable mentions: Lua (2 years with roblox), Java (1 year for AP CS).
+My first language was python, which is still my main language, but I've used and still use a lot of other languages such as: C# (mostly on [osu](https://github.com/ppy/osu)), Java (for school), JS/TS (with HTML & CSS), SQL, C, and Rust. Honorable mentions: Lua (2 years with roblox).
 
 My language of preference depends on the project and how I feel, but generally:
 - I use python on large projects such as websites
