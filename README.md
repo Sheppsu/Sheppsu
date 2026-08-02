@@ -17,6 +17,7 @@ Some notable repositories:
  - [Offline chat bot site](https://github.com/Sheppsu/offlinechatbot-site) - the site for offline chat bot. Has docs and other fun stuff.
  - [sdvx_memory_reader](https://github.com/Sheppsu/sdvx_memory_reader), C library for reading memory of sdvx exceed gear to get certain data. I also made [sdvx_rich_presence](https://github.com/Sheppsu/sdvx_rich_presence) which builds off of the memory reading library to implement a discord rich presence. I haven't been able to keep up with updating the library, so it no longer works. Though I think it's still cool and maybe I'll come back to it one day.
  - [AMQ-7TV-Chat](https://github.com/Sheppsu/AMQ-7TV-Chat) - a tapermonkey script that adds 7TV emotes to [AMQ](https://animemusicquiz.com/) chat.
+ - [amq-fsrs](https://github.com/sheppsu/amq-fsrs) - A scuffed version of AMQ that runs locally (still connecting to the actual AMQ site over socket.io), but implements FSRS to help learn songs similar to Anki (but not as good rn).
  
 Discord server if you want to contact me or talk about one of my projects for whatever reason: https://discord.gg/uVmrN9zQ99 
  
