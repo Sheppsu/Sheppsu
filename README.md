@@ -9,7 +9,7 @@ I like doing projects in relation to the game [osu!](https://github.com/ppy/osu)
 I usually just work on whatever I feel like and I like learning new things with each project.
 
 Some notable repositories:
- - [otdb](https://github.com/Sheppsu/otdb) - a tournament database website with tournament, mappool, and user data displayed neatly with search/sort/filter functionality: https://otdb.sheppsu.me
+ - [otdb](https://github.com/Sheppsu/otdb) - a tournament database website with tournament, mappool, and user data displayed neatly with search/sort/filter functionality: https://otdb.sheppsu.me Currently all the data has to be manually added, but when I have time I want to finish implementing a bot that scrapes the data from the osu tournament forum and google sheets
  - [CTA website](https://github.com/sheppsu/achievement-hunt-site) - website for an osu! event I host annually called [Capture The Achievement](https://cta.sheppsu.me/)
  - [osu.py](https://github.com/Sheppsu/osu.py) - a Python api wrapper for osu! api v2.
  - [discord-ext-listening](https://github.com/Sheppsu/discord-ext-listening) - voice receive extension for [discord.py](https://github.com/rapptz/discord.py) built on multiprocessing and designed to be flexible. The repository is old and I don't update it, so I'm not even sure if it still works. Still though, I think it's worth mentioning.
